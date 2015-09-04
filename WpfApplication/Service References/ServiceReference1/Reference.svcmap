@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="819d37cd-de1d-47dc-9f20-ca6a56b56de1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49369/CountryService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CountryService.xsd" MetadataType="Schema" ID="99fea9fd-1bcb-4745-886c-b28cf2564dc0" SourceId="1" SourceUrl="http://localhost:49369/CountryService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CountryService1.xsd" MetadataType="Schema" ID="aa66eac3-b8b1-40fc-87c5-aed08950cb7a" SourceId="1" SourceUrl="http://localhost:49369/CountryService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CountryService.wsdl" MetadataType="Wsdl" ID="70057d52-6ec4-4ceb-8172-1137510c6417" SourceId="1" SourceUrl="http://localhost:49369/CountryService.svc?wsdl" />
+    <MetadataFile FileName="CountryService2.xsd" MetadataType="Schema" ID="42e58b8a-e3f3-4978-9d52-8a0d2e69eed4" SourceId="1" SourceUrl="http://localhost:49369/CountryService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

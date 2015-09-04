@@ -1,0 +1,5 @@
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\MyWcfService\bin\MyWcfService.dll
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\MyWcfService\bin\MyWcfService.pdb
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\MyWcfService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\MyWcfService\obj\Debug\MyWcfService.dll
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\MyWcfService\obj\Debug\MyWcfService.pdb

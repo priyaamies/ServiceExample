@@ -1,0 +1,13 @@
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\Window1.baml
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\Window1.g.cs
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\App.g.cs
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\RaviPriya\Documents\Visual Studio 2008\Projects\MyWpf\WPFApp\WpfApplication\obj\Debug\WpfApplication.pdb
